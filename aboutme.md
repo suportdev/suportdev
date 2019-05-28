@@ -14,8 +14,6 @@ Here are some things that we commonly take part in:
 - Working on Group Projects
 - Of course watching Anime
 
-What else do you need?
-
 ### Where can you find us?
 
-You can always find us here on our [Discord Server](discord.gg/J7tUkvr) and we will glady welcome you!
+You can always find us here on our [Discord Server](https://discord.gg/invite/J7tUkvr) and we will glady welcome you!
