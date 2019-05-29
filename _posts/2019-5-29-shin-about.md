@@ -14,5 +14,4 @@ It's always been the same story with the other guys or you, As a kid I always lo
 - Pentesting
 - Manga
 - Kissing asses xD
-
-![](/img/shin-about.gif)
+<center><img src="/img/shin-about.gif" alt="noragami"/></center>
