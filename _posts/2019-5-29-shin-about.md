@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shin
-subtitle: About Shin
+subtitle: Great Master Sarthak's follower
 tags: [shin]
 ---
 What's up friends?! I am Shin your personal hacking companion and this is my first post in this blog,I am so excited! Anyways I will be introducing myself and how I got into hacking so let's start.
