@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Sarthak
-subtitle: The weirdo :bowtie:
-tags: [Sarthak]
+subtitle: The weirdo
+tags: [sarthak]
+comments: true
 ---
 Howdy Curious croud Who mistakenly clicked on my post,Now that you have read this far let's continue bragging :relieved:
 
