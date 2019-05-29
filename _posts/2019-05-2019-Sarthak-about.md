@@ -18,4 +18,4 @@ Let's start about the age from where he started being weird,By the early ages of
 - Lateral movement on active directory
 - Sometimes CTF
 
-<center><img src="/img/shin-about.gif" alt="noragami"/></center>
+<center><img src="/img/sarthak.gif" alt="blah"/></center>
