@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Luxunator
-subtitle: About Luxunator and his content
+subtitle: The Crazy Dude
 tags: [luxunator]
 comments: true
 ---
-[![GitHub followers](https://img.shields.io/github/followers/luxunator.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/luxunator?tab=followers)
 
 Hellooo Worlddd! My name is luxunator and this is my first post on our blog. I will give you some background info about me and also some insight on the sorts of content you will see from me. Alrighty lets get this show on the road!
+
+[![GitHub followers](https://img.shields.io/github/followers/luxunator.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/luxunator?tab=followers)
 
 ## About Me
 
