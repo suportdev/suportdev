@@ -69,14 +69,6 @@ msf5 exploit(multi/handler) run
 Then I run "Multi recon exploit suggester" It's a kind of msfconsole module that tries to gather information about the machine and suggest you exploits.
 
 ![](/img/devel-writeup/screenshot4.png)
-```
-background 
-use post/multi/recon/local_exploit_suggester
-msf5 post(multi/recon/local_exploit_suggester) > set session 2
-msf5 post(multi/recon/local_exploit_suggester) > run
-```
-![](/img/devel-writeup/screenshot3.png)
-
 Yikes! That's a lot of exploits to try so I tried the first one  but it didn't work for me so I used the 2nd and it WORKED GREAT!
 ## BAM!
 
