@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://weebsec.com/"
-#baseurl: "/weebsec"
+url: "https://cristalteck.com/"
+#baseurl: "/cristalteck"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,7 +14,7 @@ url: "https://weebsec.com/"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Suportdev
+title: Cristal Teck 
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: WeebSec
+  name: Suportdev
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -71,17 +71,17 @@ social-network-links:
   rss: true
 #  email: "someone@example.com"
 #  facebook: daattali
-  github: WeebSec
-  twitter: weebsecurity
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
+  github: suportdev
+  twitter: suportdev
+#  reddit: suportdev
+#  google-plus: +suportdev
+#  linkedin: suportdev
+#  xing: suportdev
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: suportdev
+#  instagram: suportdev
   youtube: channel/UCJy23ZbxozpffnpJyHdKrjg
-#  spotify: yourname
+#  spotify: suportdev
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
